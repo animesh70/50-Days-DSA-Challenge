@@ -28,13 +28,8 @@ All solutions are meticulously organized by day and topic, following a consisten
 
 The file structure is: `50-Days-DSA-Challenge/DayXX_TopicName.java`
 
-* `Day_01/` ➡️ Introduction to Java & Variables
-* `Day_05/` ➡️ Functions and Methods
-* `Day_10/` ➡️ Arrays & 2D Arrays
-* `Day_20/` ➡️ Recursion & Backtracking
-* `Day_30/` ➡️ Stacks and Queues
-* `Day_40/` ➡️ Trees (Binary, BST, AVL)
-* `Day_50/` ➡️ Graphs & Final Review
+* `Day_01/` ➡️ Introduction to Java, Flowcharts and Pseudocode
+* `Day_02/` ➡️ Variables and Data Types
 
 ---
 
@@ -65,5 +60,9 @@ If you find this repository helpful or are interested in collaborating on DSA pr
 
 * [https://www.linkedin.com/in/animesh-mohanty-352bb3385]
 * [animeshmohanty59@gmail.com]
+* 
+---
+
+## ⭐ Found my work useful? Please consider giving a star to this series on GitHub—it helps a lot!
 
 ***Happy Coding!***
