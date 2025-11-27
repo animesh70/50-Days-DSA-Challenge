@@ -18,7 +18,7 @@ The goal is simple: **50 days, 50 classes, 100% mastery.** Each day represents a
 | :---:  |    :---:   |   :---:   |   :---:   |
 |  ✅    |     50     |     0     |    50     |
 
-[![Days Completed](https://img.shields.io/badge/Progress-0%2F50%20Days-red)](link-to-your-apna-college-course)
+[![Days Completed](https://img.shields.io/badge/Progress-1%2F50%20Days-red)](link-to-your-apna-college-course)
 
 ---
 
