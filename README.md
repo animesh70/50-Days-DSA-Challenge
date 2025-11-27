@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./assets/dsa_banner.jpg" alt="Dsa 50 Days Challenge Banner" width="100%" />
 </div>
+
 # ☕ 50-Day DSA Mastery Challenge (Java)
 
 ### A Structured Journey through Data Structures and Algorithms with Apna College
@@ -12,10 +13,6 @@
 This repository documents my **50-day rigorous challenge** to master Data Structures and Algorithms (DSA) using the **Java** programming language. The curriculum is primarily guided by the comprehensive material provided by **Apna College**.
 
 The goal is simple: **50 days, 50 classes, 100% mastery.** Each day represents a new concept, a new challenge, and a step closer to becoming a proficient problem-solver.
-
-<div align="center">
-  <img src="./assets/dsa_java.jpg" alt="Dsa in Java" width="100%" />
-</div>
 
 ---
 
