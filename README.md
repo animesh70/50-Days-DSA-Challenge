@@ -63,6 +63,6 @@ If you find this repository helpful or are interested in collaborating on DSA pr
 * 
 ---
 
- ⭐ Found my work useful? Please consider giving a star to this series on GitHub—it helps a lot!
+**⭐ Found my work useful? Please consider giving a star to this series on GitHub—it helps a lot!**
 
 ***Happy Coding!***
