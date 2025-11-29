@@ -8,7 +8,7 @@
 
 ---
 
-## 🪴 Welcome to the Challenge!
+## 🎯 Welcome to the Challenge!
 
 This repository documents my **50-day rigorous challenge** to master Data Structures and Algorithms (DSA) using the **Java** programming language. The curriculum is primarily guided by the comprehensive material provided by **Apna College**.
 
