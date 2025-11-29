@@ -106,7 +106,7 @@
 ---
 
 ## 🎯 Assignment: 01
-## 🎯 Problem Statement: 01
+🎯 Problem Statement: 01
 ### Flowchart to calculate area of a circle.
 ## ➡️ Flowchart (Design)
 
@@ -119,7 +119,7 @@
 ---
 
 ## 🎯 Assignment: 01
-## 🎯 Problem Statement: 02
+🎯 Problem Statement: 02
 ### Flowchart to find the greatest of 2 numbers.
 ## ➡️ Flowchart (Design)
 
@@ -132,7 +132,7 @@
 ---
 
 ## 🎯 Assignment: 01
-## 🎯 Problem Statement: 03
+🎯 Problem Statement: 03
 ### Flowchart to print even numbers between 9 and 100.
 ## ➡️ Flowchart (Design)
 
@@ -145,7 +145,7 @@
 ---
 
 ## 🎯 Assignment: 01
-## 🎯 Problem Statement: 04
+🎯 Problem Statement: 04
 ### Flowchart to calculate the average from 25 exam scores.
 ## ➡️ Flowchart (Design)
 
