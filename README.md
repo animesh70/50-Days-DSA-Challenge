@@ -1,7 +1,7 @@
 # ☕ 50-Day DSA Mastery Challenge (Java)
 
 <div align="center">
-  <img src="./assets/dsa_banner1.jpg" alt="Dsa 50 Days Challenge Banner" width="100%" />
+  <img src="./assets/zoro-banner.jpg" alt="Dsa 50 Days Challenge Banner" width="100%" />
 </div>
 
 ### A Structured Journey through Data Structures and Algorithms with Apna College
