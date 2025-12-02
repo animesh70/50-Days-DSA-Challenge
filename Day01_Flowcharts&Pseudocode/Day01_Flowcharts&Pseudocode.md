@@ -27,7 +27,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-question2.jpg" alt="Image of flowchart showing Calculation of Simple intrest" width="100%" />
+  <img src="../assets/day01-question2.jpg" alt="Image of flowchart showing Calculation of Simple intrest" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -53,7 +53,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-question3.jpg" alt="Image of flowchart showing max of 3 numbers" width="100%" />
+  <img src="../assets/day01-question3.jpg" alt="Image of flowchart showing max of 3 numbers" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -77,7 +77,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-question4.jpg" alt="Image of flowchart showing number is prime or not" width="100%" />
+  <img src="../assets/day01-question4.jpg" alt="Image of flowchart showing number is prime or not" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -98,7 +98,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-question5.jpg" alt="Image of flowchart showing sum of first n natural numbers" width="100%" />
+  <img src="../assets/day01-question5.jpg" alt="Image of flowchart showing sum of first n natural numbers" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -111,7 +111,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-assignment1-question1.jpg" alt="Image of flowchart showing Calculation of area of a circle" width="100%" />
+  <img src="../assets/day01-assignment1-question1.jpg" alt="Image of flowchart showing Calculation of area of a circle" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -124,7 +124,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-assignment1-question2.jpg" alt="Image of flowchart showing greatest of two numbers" width="100%" />
+  <img src="../assets/day01-assignment1-question2.jpg" alt="Image of flowchart showing greatest of two numbers" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -137,7 +137,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-assignment1-question3.jpg" alt="Image of flowchart showing even number between 9 and 100" width="100%" />
+  <img src="../assets/day01-assignment1-question3.jpg" alt="Image of flowchart showing even number between 9 and 100" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
@@ -150,7 +150,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-assignment1-question4.jpg" alt="Image of flowchart showing Calculation of average from 25 exam scores" width="100%" />
+  <img src="../assets/day01-assignment1-question4.jpg" alt="Image of flowchart showing Calculation of average from 25 exam scores" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
