@@ -1,6 +1,6 @@
 ## (Advanced) Will the following statement give any error in Java?
 <div align="center">
-  <img src="./assets/day02-assignment2-question5.jpg" alt="Assignment 02  Question 05" width="50%" />
+  <img src="../assets/day02-assignment2-question5.jpg" alt="Assignment 02  Question 05" width="50%" />
 </div>
 
 ### Solution:
