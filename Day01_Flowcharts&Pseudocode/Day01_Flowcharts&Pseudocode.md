@@ -9,7 +9,7 @@
 ## ➡️ Flowchart (Design)
 
 <div align="center">
-  <img src="./assets/day01-question1.jpg" alt="Image of flowchart showing sum of 2 numbers" width="100%" />
+  <img src="../assets/day01-question1.jpg" alt="Image of flowchart showing sum of 2 numbers" width="100%" />
 </div>
 
 *(Note: The flowchart uses standard symbols: **Ovals** for Start/End, **Parallelograms** for Input/Output, and a **Rectangle** for Processing/Calculation.)*
